@@ -18,6 +18,10 @@
   - [September 2025, April 2026]
 
 ### `Research`
+- **[Forced Flows at the Index Close](https://github.com/simonjarviss/quantitative-research/blob/main/reports/index-rebalancing/index-rebalancing.pdf)**: point-in-time event studies of index rebalances in Canada, Europe and the US
+- **[Execution Capacity, Market Beta and an Intraday Close Test](https://github.com/simonjarviss/quantitative-research/blob/main/reports/cef-desk-studies/cef-desk-studies.pdf)**: three studies for a closed-end-fund discount book
+- **[Delta-Hedged Gamma on SPY and QQQ Options](https://github.com/simonjarviss/quantitative-research/blob/main/reports/options-gamma/options-gamma.pdf)**: evidence, data and a proposed test
+- **[Free Public Data for Systematic Strategies](https://github.com/simonjarviss/quantitative-research/blob/main/reports/free-data-sources/free-data-sources.pdf)**: a survey of 73 sources and 33 strategy playbooks
 - **[Credit Trading](https://github.com/simonjarviss/CreditTrading)**: a systematic closed-end-fund discount book, from research harness to a scheduled paper-trading runner
 - **[Macro Regime-Based Asset Rotation](https://github.com/simonjarviss/macro-regime-rotation/blob/main/report/macro_regime_rotation_report.pdf)**: four-regime macro classification and a walk-forward multi-asset rotation (co-author, first of five teams)
 
