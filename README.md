@@ -10,10 +10,10 @@
 ### `Experience`
 - **[RBC Capital Markets](https://www.rbccm.com)** | *[Incoming Quantitative Equity Trader, Program Trading & Index Research]*
   - [May 2027, May 2028]
-- **[QUANTT](https://quantt.ca)** | *[Portfolio Manager]*
-  - [April 2026, Present]
 - **[RBC Capital Markets](https://www.rbccm.com)** | *[Global Markets Summer Analyst and AI Engineer]*
   - [May 2026, August 2026] · Credit Trading, Program Trading and Treasury Markets
+- **[QUANTT](https://quantt.ca)** | *[Portfolio Manager]*
+  - [April 2026, Present]
 - **[QUANTT](https://quantt.ca)** | *[Quantitative Trading Analyst]*
   - [September 2025, April 2026]
 
